@@ -13,7 +13,7 @@ const app = props =>  {
         <Person name={this.state.person[0].name} age={this.state.person[0].age}/>
         <Person name={this.state.person[1].name} age={this.state.person[1].age}>My Hobbies:playing</Person>
         <Person name={this.state.person[2].name} age={this.state.person[2].age}/>
-        <p>This is really working</p>
+        <p>This is really workingms</p>
         </div>
     );
   }
